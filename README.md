@@ -1,3 +1,1 @@
-# Решения лабораторных работ из курса "Объектно-ориентированное программирование на C++"
-
-
+# Solutions of laboratory work from the course "Object-oriented programming in C++"
