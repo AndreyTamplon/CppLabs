@@ -1,1 +1,3 @@
-# cpp_labs
+# Implementation of a simple hash table
+
+
